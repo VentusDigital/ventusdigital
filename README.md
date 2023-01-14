@@ -3,7 +3,7 @@
 
 ## Sobre nós
 
-A Ventus Digital é uma empresa que oferece serviços de TI variado,  unindo inovação e criatividade. Nossa stack para o desenvolvimento de softwares é com base no Typescript, com o NodeJs para o backend e ReactJs para o frontend.
+A Ventus Digital é uma empresa que oferece serviços de TI variados,  unindo inovação e criatividade. Nossa stack para o desenvolvimento de softwares é com base no Typescript, com o NodeJs para o backend e ReactJs para o frontend.
 
 ## Quem somos?
 
