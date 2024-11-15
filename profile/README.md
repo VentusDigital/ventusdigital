@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img style={{border-radius: 999px}} src="https://avatars.githubusercontent.com/u/94746150?s=400&u=23c0d4df038041491d32d2f2565abef7963a4fb3&v=4" width="20%"></a></p>
+<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://avatars.githubusercontent.com/u/94746150?s=400&u=23c0d4df038041491d32d2f2565abef7963a4fb3&v=4" width="20%"></a></p>
 
 <h1 align="center">Ventus Company</h1>
 <h2 align="center">IT Solutions with Innovation and Creativity 😀👨‍💻</h2>
@@ -24,4 +24,4 @@ Located in Ceará, Brazil, Ventus Company operates globally, extending our servi
 
 Stay connected with Ventus Company for reliable, creative, and innovative IT services that make a difference.
 
-<p align="center"><a href="https://ventus.company" target="_blank"><img src="https://img.shields.io/badge/Site_Official-blue" width="10%"></a></p>
+<p align="center"><a href="https://ventus.company" target="_blank"><img src="https://img.shields.io/badge/Contact-Us-blue" width="10%"></a></p>
